@@ -1,3 +1,3 @@
-# Holoflows-Meta-RFC
+# Holoflows-Meta-DSD
 
 Design Specification Documents for Holoflows
